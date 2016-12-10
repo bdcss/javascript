@@ -1,5 +1,10 @@
 # javascript
+1. [basic]('./1.basic')
 
-学习参考：[廖雪峰的javascript教程](http://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000)
+2. [array]('./2.array')
 
-js编码规范： [JavaScript编码规范](http://agroup.baidu.com/fe-styleguide/md/article/62439)
+3. [object]('./3.object')
+
+4. [function]('./4.function')
+
+5. [RegExp]('./5.RegExp')
