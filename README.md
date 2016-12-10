@@ -1,5 +1,5 @@
 # javascript
-1. [basic]('./1.basic')
+1. [basic](1.basic)
 
 2. [array]('./2.array')
 
